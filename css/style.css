@@ -1,0 +1,21 @@
+/** HEADER **/
+
+header nav{
+background-color: coral;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
+
+.btn{
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.btn:hover{
+    background-color: black;
+    border: 1px solid white;
+    
+}
